@@ -3,9 +3,9 @@
 A collection of clean, modern chess sets designed to be easy to use and pleasing to look at.
 
 ## Featuring 3 sets:
--Iowa
--Chicago
--Oslo
+- Iowa
+- Chicago
+- Oslo
 
 You can see them in action at [the Chess Foundry](http://www.thechessfoundry.com) website.
 
